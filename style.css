@@ -167,8 +167,8 @@
     }
 
    .container .card .imgcard{
-        height: 160px;
-        width: 330px;
+        height: auto;
+        width: 100%;
     }
 
     .container .card .content{
